@@ -45,10 +45,10 @@ const Index = () => {
           <div className="max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
             <p className="text-lg text-foreground/80 mb-6">
-              I'm a passionate developer focused on creating intuitive and efficient web solutions. With expertise in modern web technologies, I bring ideas to life through clean code and thoughtful design.
+              As a Cloud Security Solutions Architect at Palo Alto Networks, I help organizations confidently secure their cloud environments without slowing down innovation.
             </p>
             <p className="text-lg text-foreground/80">
-              My approach combines technical excellence with user-centered design principles, ensuring that every project not only functions flawlessly but also delivers an exceptional user experience.
+              I specialize in bridging the gap between cloud-native architecture and robust security - designing scalable, compliant, and automated solutions that align with business goals. With deep expertise in cloud platforms, DevSecOps, and infrastructure as code, I bring a proactive, solutions-driven mindset to every challenge.
             </p>
           </div>
         </div>
