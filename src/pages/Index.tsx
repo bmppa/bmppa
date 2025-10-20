@@ -1,5 +1,5 @@
 
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, X } from "lucide-react";
 import { useState, useEffect } from "react";
 
 const Index = () => {
