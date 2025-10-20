@@ -90,7 +90,7 @@ const Index = () => {
             </p>
             <div className="flex justify-center space-x-6">
               <a
-                href="https://github.com"
+                href="https://github.com/bmppa
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-foreground text-background hover:bg-foreground/90 transition-colors"
@@ -98,7 +98,7 @@ const Index = () => {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/bmppa/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-foreground text-background hover:bg-foreground/90 transition-colors"
