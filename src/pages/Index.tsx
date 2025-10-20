@@ -1,5 +1,5 @@
 
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Twitter } from "lucide-react";
 import { useState, useEffect } from "react";
 
 const Index = () => {
@@ -106,10 +106,12 @@ const Index = () => {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="mailto:contact@example.com"
+                href="https://x.com/bmppa"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="p-3 rounded-full bg-foreground text-background hover:bg-foreground/90 transition-colors"
               >
-                <Mail className="h-6 w-6" />
+                <Twitter className="h-6 w-6" />
               </a>
             </div>
           </div>
