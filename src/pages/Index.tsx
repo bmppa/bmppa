@@ -1,6 +1,7 @@
 
 import { Github, Linkedin, Twitter } from "lucide-react";
 import { useState, useEffect } from "react";
+import profileImage from "@/assets/profile.png";
 
 const Index = () => {
   const [mounted, setMounted] = useState(false);
@@ -43,6 +44,13 @@ const Index = () => {
       <section id="about" className="py-16">
         <div className="container mx-auto px-6">
           <div className="max-w-3xl mx-auto">
+            <div className="flex justify-center mb-8">
+              <img 
+                src={profileImage} 
+                alt="Bruno Almeida" 
+                className="w-48 h-48 rounded-full object-cover shadow-lg"
+              />
+            </div>
             <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
             <p className="text-lg text-foreground/80 mb-6">
               As a Cloud Security Solutions Architect at Palo Alto Networks, I help organizations confidently secure their cloud environments without slowing down innovation.
