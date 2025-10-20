@@ -47,7 +47,7 @@ const Index = () => {
             <p className="text-lg text-foreground/80 mb-6">
               As a Cloud Security Solutions Architect at Palo Alto Networks, I help organizations confidently secure their cloud environments without slowing down innovation.
             </p>
-            <p className="text-lg text-foreground/80">
+            <p className="text-lg text-foreground/80 mb-6">
               I specialize in bridging the gap between cloud-native architecture and robust security - designing scalable, compliant, and automated solutions that align with business goals. With deep expertise in cloud platforms, DevSecOps, and infrastructure as code, I bring a proactive, solutions-driven mindset to every challenge.
             </p>
             <p className="text-lg text-foreground/80">
