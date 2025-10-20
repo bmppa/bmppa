@@ -30,10 +30,10 @@ const Index = () => {
         <div className="container mx-auto px-6">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
-              Hello, I'm [Your Name]
+              Hello, I'm Bruno Almeida
             </h1>
             <p className="text-lg md:text-xl text-foreground/80 mb-8 animate-fade-in" style={{ animationDelay: "0.2s" }}>
-              A passionate writer and developer sharing thoughts and experiences
+              A passionate Cloud Security Solutions Architect.
             </p>
           </div>
         </div>
