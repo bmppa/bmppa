@@ -1,5 +1,5 @@
 
-import { Github, Linkedin, X } from "lucide-react";
+import { Github, Linkedin, Twitter } from "lucide-react";
 import { useState, useEffect } from "react";
 
 const Index = () => {
@@ -111,7 +111,7 @@ const Index = () => {
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-foreground text-background hover:bg-foreground/90 transition-colors"
               >
-                <X className="h-6 w-6" />
+                <Twitter className="h-6 w-6" />
               </a>
             </div>
           </div>
