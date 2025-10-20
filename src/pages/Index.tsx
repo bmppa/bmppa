@@ -15,7 +15,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full backdrop-blur-md bg-background/80 z-50 border-b">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <a href="#" className="text-xl font-semibold">Portfolio</a>
+            <a href="#" className="text-xl font-semibold">Bruno Almeida</a>
             <div className="hidden md:flex space-x-8">
               <a href="#about" className="nav-link">About</a>
               <a href="#blog" className="nav-link">Blog</a>
