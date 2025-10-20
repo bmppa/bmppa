@@ -50,6 +50,9 @@ const Index = () => {
             <p className="text-lg text-foreground/80">
               I specialize in bridging the gap between cloud-native architecture and robust security - designing scalable, compliant, and automated solutions that align with business goals. With deep expertise in cloud platforms, DevSecOps, and infrastructure as code, I bring a proactive, solutions-driven mindset to every challenge.
             </p>
+            <p className="text-lg text-foreground/80">
+              What sets me apart? I speak both “security” and “cloud,” translating complex risks into actionable strategies that teams can easily trust and implement.
+            </p>
           </div>
         </div>
       </section>
