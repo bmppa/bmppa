@@ -19,7 +19,7 @@ const Index = () => {
             <div></div>
             <div className="hidden md:flex space-x-8">
               <a href="#about" className="nav-link">About</a>
-              <a href="#blog" className="nav-link">Blog</a>
+              {/* <a href="#blog" className="nav-link">Blog</a> */}
               <a href="#contact" className="nav-link">Contact</a>
             </div>
           </div>
