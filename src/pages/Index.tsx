@@ -114,7 +114,7 @@ const Index = () => {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a
-                href="https://x.com/bmppa"
+                href="https://x.com/bmppa_"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-foreground text-background hover:bg-foreground/90 transition-colors"
