@@ -66,7 +66,7 @@ const Index = () => {
       </section>
 
       {/* Blog Section */}
-      <section id="blog" className="py-16 bg-secondary">
+      {/* <section id="blog" className="py-16 bg-secondary">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold mb-12 text-center">Latest Posts</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
@@ -86,7 +86,7 @@ const Index = () => {
             </article>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Contact Section */}
       <section id="contact" className="py-16">
